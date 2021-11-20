@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArMaNIRI
+- 👋 Hi, I’m Arman
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on a team
