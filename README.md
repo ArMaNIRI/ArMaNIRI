@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arman
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a team
 - 📫 How to reach me @thesadpepe on telegram 
 
